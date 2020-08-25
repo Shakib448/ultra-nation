@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ultra-nation/static/css/main.c604994d.chunk.css",
+    "main.js": "/ultra-nation/static/js/main.06b1db2a.chunk.js",
+    "main.js.map": "/ultra-nation/static/js/main.06b1db2a.chunk.js.map",
+    "runtime-main.js": "/ultra-nation/static/js/runtime-main.8844c449.js",
+    "runtime-main.js.map": "/ultra-nation/static/js/runtime-main.8844c449.js.map",
+    "static/js/2.121fbdbd.chunk.js": "/ultra-nation/static/js/2.121fbdbd.chunk.js",
+    "static/js/2.121fbdbd.chunk.js.map": "/ultra-nation/static/js/2.121fbdbd.chunk.js.map",
+    "index.html": "/ultra-nation/index.html",
+    "precache-manifest.cc3e94c38549f311efe7266311448aae.js": "/ultra-nation/precache-manifest.cc3e94c38549f311efe7266311448aae.js",
+    "service-worker.js": "/ultra-nation/service-worker.js",
+    "static/css/main.c604994d.chunk.css.map": "/ultra-nation/static/css/main.c604994d.chunk.css.map",
+    "static/js/2.121fbdbd.chunk.js.LICENSE.txt": "/ultra-nation/static/js/2.121fbdbd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8844c449.js",
+    "static/js/2.121fbdbd.chunk.js",
+    "static/css/main.c604994d.chunk.css",
+    "static/js/main.06b1db2a.chunk.js"
+  ]
+}
